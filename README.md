@@ -2,11 +2,11 @@
 
 ## 👋 Personal Project Story
 
-This project started as a small but meaningful initiative by two friends who've been through the challenges of job hunting in Korea as foreigners. After successfully landing jobs in the Korean market, we decided to share our experience and knowledge to help others on the same journey.
+Launched in July 2024 when I first thought “why don’t we share our experience?” and invited my friend to join, we then distilled our firsthand insights from global job fairs in Korea and university 취업클래스 lessons on Korean resumes, cover letters, and document prep into a simple roadmap for other international applicants.
 
 ## 💡 What is Global K-Job?
 
-K-Job (Guide for Jobs in Korea) is our contribution to the foreign community in Korea - a practical guide built from real experiences. We focus on what actually works when preparing:
+K-Job (Global Guide for Jobs in Korea) is our contribution to the foreign community in Korea - a practical guide built from real experiences. We focus on what actually works when preparing:
 
 - 이력서 (Korean-style Resume)
 - 자기소개서 (Self-introduction Letter)
@@ -69,7 +69,13 @@ Our community members have achieved:
 - Properly formatted resumes and cover letters in Korean style
 
 
-## 🌟 Current Features
+### 🚀 Live Demo
+
+This project is deployed on Vercel.  
+🔗 [Live Demo](https://gjk-guide.vercel.app) — *Client UI is still accessible, but the server is temporarily offline due to maintenance; coming back soon!*
+
+
+## 🌟 Main Features
 
 - Step-by-step guide for document preparation
 - Bilingual support (English/Russian)
@@ -167,12 +173,6 @@ src/
         ├── auth.json
         └── guide.json
 ```
- 
-### Live Demo
-
-This project is deployed on Vercel
-🔗 [Live Demo](https://gjk-guide.vercel.app) (Coming soon)
-  
   
 ## 🔜 Future Plans
 
