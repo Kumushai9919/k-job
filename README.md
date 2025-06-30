@@ -1,8 +1,19 @@
-# Global K-Job - Guide for Jobs in Korea
+# Global K-Job - Guide for Jobs in Korea 
 
-## 👋 Personal Project Story
+Launched in July 2024 when I first thought “why don’t we share our experience?” and invited my friend https://github.com/Alisherka7 to join, we then distilled our firsthand insights from global job fairs in Korea and university 취업클래스 lessons on Korean resumes, cover letters, and document prep into a simple roadmap for other international applicants. 
 
-Launched in July 2024 when I first thought “why don’t we share our experience?” and invited my friend to join, we then distilled our firsthand insights from global job fairs in Korea and university 취업클래스 lessons on Korean resumes, cover letters, and document prep into a simple roadmap for other international applicants.
+## 👥 Contributors
+- **Frontend & Content Creation**: [Kumushai9919] (https://github.com/Kumushai9919)
+  - UI/UX Design
+  - Guide Content Development
+  - Internationalization
+  - User Experience
+  
+- **Backend Development**: [Alisherka7](https://github.com/Alisherka7)
+  - API Development
+  - Authentication System
+  - Database Management
+  - Server Infrastructure
 
 ## 💡 What is Global K-Job?
 
@@ -72,7 +83,7 @@ Our community members have achieved:
 ### 🚀 Live Demo
 
 This project is deployed on Vercel.  
-🔗 [Live Demo](https://gjk-guide.vercel.app) — *Client UI is still accessible, but the server is temporarily offline due to maintenance; coming back soon!*
+🔗 [Live Demo](https://k-job.vercel.app/) — *Client UI is still accessible, but the server is temporarily offline due to maintenance; coming back soon!*
 
 
 ## 🌟 Main Features
