@@ -1,21 +1,73 @@
-# GJK - Guide for Jobs in Korea
+# Global K-Job - Guide for Jobs in Korea
 
 ## 👋 Personal Project Story
 
 This project started as a small but meaningful initiative by two friends who've been through the challenges of job hunting in Korea as foreigners. After successfully landing jobs in the Korean market, we decided to share our experience and knowledge to help others on the same journey.
 
-## 💡 What is GJK?
+## 💡 What is Global K-Job?
 
-GJK (Guide for Jobs in Korea) is our contribution to the foreign community in Korea - a practical guide built from real experiences. We focus on what actually works when preparing:
+K-Job (Guide for Jobs in Korea) is our contribution to the foreign community in Korea - a practical guide built from real experiences. We focus on what actually works when preparing:
 
 - 이력서 (Korean-style Resume)
 - 자기소개서 (Self-introduction Letter)
 - Portfolio preparation
 - Korean job market navigation
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3d9cae32-b0e5-4d47-aa7b-91eaf6bc25eb" alt="User Review 1" width="320"/>
+  <br/><br/>
+  <img src="https://github.com/user-attachments/assets/7d63f596-9ec7-4046-8837-0610d4506ec6" alt="User Review 2" width="320"/> 
+</div>
+
 ## 🎯 Why We Built This
 
 Having experienced the confusion and challenges firsthand, we wanted to create something that we wish existed when we were job hunting. This isn't just another job portal - it's a personal guide based on what actually worked for us in the Korean job market.
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github.com/user-attachments/assets/c8de32c5-543c-402f-8fb0-469672658c9a"
+        alt="Screenshot 1"
+        width="250"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github.com/user-attachments/assets/209c8d94-caa9-46b6-ba8f-5e890670acfc"
+        alt="Screenshot 2"
+        width="250"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github.com/user-attachments/assets/0c66fdd6-9d9b-41aa-a63b-c7a7e38d01c3"
+        alt="Demo GIF"
+        width="250"
+      />
+    </td>
+  </tr>
+</table>
+
+### 💬 Real User Reviews
+Our guide has helped many foreigners successfully navigate the Korean job market. Here are some testimonials from our community:
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bc3c10c7-6dfe-4651-a5ea-df9aa6b19969" alt="User Review 3" width="250"/>
+  <img src="https://github.com/user-attachments/assets/c406f90c-6b89-47e0-975f-42f6b63352ac" alt="User Review 2" width="250"/>
+  <img src="https://github.com/user-attachments/assets/b8c37e3b-4a23-4cf8-9fe1-65344ad54c61" alt="User Review 3" width="250"/>
+</div>
+
+> These testimonials were shared by our users on Instagram, showing real results from using our guide.
+
+Our community members have achieved:
+- Successfully participated in Korean job fairs
+- Received multiple interview invitations
+- Secured positions in Korean companies
+- Properly formatted resumes and cover letters in Korean style
+
 
 ## 🌟 Current Features
 
@@ -38,20 +90,19 @@ Having experienced the confusion and challenges firsthand, we wanted to create s
   - react-i18next
   - Language fallback support
   - Automatic language detection
-- Material Tailwind
-- Radix UI
+- Material Tailwind 
 - Vite
 - React Hook Form
-- Zod (Form validation)
-- SWR (Data fetching)
-- React Spring (Animations)
+- Zod (Form validation) 
+- Lottie Animation
 - Recharts (Charts)
+
 
 ## 📦 Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/gjk.git
+git clone https://github.com/yourusername/k-job.git
 
 # Install dependencies
 npm install
@@ -102,7 +153,7 @@ The application implements comprehensive internationalization support using i18n
 - Number and date formatting
 - Translation fallbacks
 
-### Translation Structure
+#### Translation Structure
 
 ```
 src/
@@ -116,43 +167,16 @@ src/
         ├── auth.json
         └── guide.json
 ```
-
-## 🖼️ Demo & Screenshots
-
+ 
 ### Live Demo
+
+This project is deployed on Vercel
 🔗 [Live Demo](https://gjk-guide.vercel.app) (Coming soon)
-
-### Screenshots
-![Homepage](/public/screenshots/home.png)
-![Guide Section](/public/screenshots/guide.png)
-![Resume Builder](/public/screenshots/resume.png)
-
-## 🚀 Deployment
-
-This project is deployed on Vercel:
-- Production: [gjk-guide.vercel.app](https://gjk-guide.vercel.app)
-- Development: [gjk-guide-dev.vercel.app](https://gjk-guide-dev.vercel.app)
-
-### Deployment Status
-[![Vercel Production Status](https://img.shields.io/github/deployments/yourusername/gjk/Production?label=vercel&logo=vercel)](https://gjk-guide.vercel.app)
-
-## 👥 Contributors
-
-Created and maintained by:
-- Jay (Backend Developer in Korea)
-- Alex (Frontend Developer in Korea)
-
-We're two friends who turned our job-hunting struggles into a resource for others. While this started as a small personal project, we hope it grows to help more foreigners successfully join the Korean workforce.
-
+  
+  
 ## 🔜 Future Plans
 
-- Expand language support
-- Add more success stories
-- Include interview preparation guides
+- Expand language support 
 - Build community features
 - Add more resources for different industries
-
-## 🙏 Acknowledgments
-
-- SolutionAIX team
-- All contributors
+ 
