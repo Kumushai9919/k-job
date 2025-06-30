@@ -1,6 +1,13 @@
-# Global K-Job - Guide for Jobs in Korea 
+# 💼 Global K-Job - Guide for Jobs in Korea 
 
-Launched in July 2024 when I first thought “why don’t we share our experience?” and invited my friend https://github.com/Alisherka7 to join, we then distilled our firsthand insights from global job fairs in Korea and university 취업클래스 lessons on Korean resumes, cover letters, and document prep into a simple roadmap for other international applicants. 
+**KJob is a comprehensive guide web platform for foreigners to secure jobs in South Korea.**
+
+Launched in July 2024 when I first thought, “Why don’t we share our experience?” I invited my friend [@Alisherka7](https://github.com/Alisherka7) to join, and together we distilled our insights from global job fairs in Korea and university 취업클래스 lessons on Korean resumes, cover letters, and document prep into a simple roadmap platform for international applicants.
+
+**KJob은 외국인이 한국에서 취업을 준비하고 성공적으로 정착할 수 있도록 돕는 종합 가이드 웹 플랫폼입니다.**
+
+2024년 7월 “왜 우리의 경험을 공유하지 않을까?”라는 생각에 친구를 초대해 시작했으며, 글로벌 KOTRA 채용박람회 경험과 대학 취업클래스에서 배운 이력서·자기소개서 등 서류 준비 노하우를 국제 지원자를 위한 영어 및 러시아어로 간단한 로드맵 플랫폼으로 정리했습니다.
+
 
 ## 👥 Contributors
 - **Frontend & Content Creation**: [Kumushai9919] (https://github.com/Kumushai9919)
