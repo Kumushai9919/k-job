@@ -8,6 +8,11 @@ Launched in July 2024 when I first thought, “Why don’t we share our experien
 
 2024년 7월 “왜 우리의 경험을 공유하지 않을까?”라는 생각에 친구를 초대해 시작했으며, 글로벌 KOTRA 채용박람회 경험과 대학 취업클래스에서 배운 이력서·자기소개서 등 서류 준비 노하우를 국제 지원자를 위한 영어 및 러시아어로 간단한 로드맵 플랫폼으로 정리했습니다.
 
+### 🚀 Live Demo
+
+This project is deployed on Vercel.  
+🔗 [Live Demo](https://k-job.vercel.app/) — *Client UI is still accessible, but the server is temporarily offline due to maintenance; coming back soon!*
+
 
 ## 👥 Contributors
 - **Frontend & Content Creation**: [Kumushai9919] (https://github.com/Kumushai9919)
@@ -86,11 +91,6 @@ Our community members have achieved:
 - Secured positions in Korean companies
 - Properly formatted resumes and cover letters in Korean style
 
-
-### 🚀 Live Demo
-
-This project is deployed on Vercel.  
-🔗 [Live Demo](https://k-job.vercel.app/) — *Client UI is still accessible, but the server is temporarily offline due to maintenance; coming back soon!*
 
 
 ## 🌟 Main Features
